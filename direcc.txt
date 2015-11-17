@@ -1,7 +1,2 @@
-seleccion
-xxxxxx
-hola panas
-direccion de 
-https://github.com/ivanrevelo13/ivan.git
 
-git@github.com:ivanrevelo/ivan.git
+https://github.com/ivanrevelo13/ivan.git
